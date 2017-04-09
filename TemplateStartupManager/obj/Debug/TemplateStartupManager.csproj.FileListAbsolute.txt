@@ -1,0 +1,8 @@
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\TemplateStartupManager.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\TemplateStartupManager.pdb
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\envdte.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\stdole.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\obj\Debug\TemplateStartupManager.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\obj\Debug\TemplateStartupManager.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="ProjectGroup" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Sample-Project-Template </Name>
+    <Description> Compatible VS Package template including iOS, Android, Universal Windows Platform, and shared projects.</Description>
+    <Icon>ProjectTemplate.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <DefaultName>App name</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectCollection>
+
+      <ProjectTemplateLink ProjectName="SharedLibrary">
+        SharedProject\MyTemplate.vstemplate
+      </ProjectTemplateLink>
+
+      <SolutionFolder Name="Platforms" CreateOnDisk="true">
+        <ProjectTemplateLink ProjectName="UWP">
+          Platforms\UWP\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="Android">
+          Platforms\Android\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="iOS">
+          Platforms\IOS\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+      </SolutionFolder>
+    </ProjectCollection>
+  </TemplateContent>
+  <WizardExtension>
+    <Assembly>
+      TemplateStartupManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b4902bdd30471c3f
+    </Assembly>
+    <FullClassName>TemplateStartupManager.StartupWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>

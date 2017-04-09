@@ -1,0 +1,48 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectItemWithCodeBehind</RelativePathOnDisk>
+    <TemplateFileName>ProjectItemWithCodeBehind.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name> Sample xml document with Code-behind</Name>
+        <Description>A template to create a new xml file with a code-behind.</Description>
+        <Icon>Icon.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Sample.xml</DefaultName>
+        <TemplateID>Microsoft.CSharp.TextFile</TemplateID>
+        <AppliesTo>CSharp + WindowsXaml + WindowsXamlPage + WindowsXamlCodeBehind + MultiTarget</AppliesTo>
+        <CreateInPlace>true</CreateInPlace>
+        <Hidden>false</Hidden>
+        <CreateNewFolder>true</CreateNewFolder>
+        <LocationField>Enabled</LocationField>
+        <SpecialTemplateType>EmptyShared</SpecialTemplateType>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectItem</RelativePathOnDisk>
+    <TemplateFileName>ProjectItem.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name> MultiPlatform</Name>
+        <Description>A template to create a new cs file.</Description>
+        <Icon>Icon.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>MultiPlatform.cs</DefaultName>
+        <TemplateID>Microsoft.CSharp.TextFile</TemplateID>
+        <AppliesTo>CSharp + WindowsXaml + WindowsXamlPage + WindowsXamlCodeBehind + MultiTarget</AppliesTo>
+        <CreateInPlace>true</CreateInPlace>
+        <Hidden>false</Hidden>
+        <CreateNewFolder>true</CreateNewFolder>
+        <LocationField>Enabled</LocationField>
+        <SpecialTemplateType>EmptyShared</SpecialTemplateType>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

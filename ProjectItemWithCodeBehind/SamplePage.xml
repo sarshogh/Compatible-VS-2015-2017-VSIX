@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+
+<root name="$safeitemrootname$"             
+             Title="$itemname$">
+
+  <my-item inside="Body">
+    
+  </my-item>
+
+</root>

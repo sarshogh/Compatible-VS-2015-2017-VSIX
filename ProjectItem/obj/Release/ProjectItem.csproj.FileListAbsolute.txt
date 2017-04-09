@@ -1,0 +1,5 @@
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItem\bin\Release\ItemTemplates\CSharp\Cross-Platform\1033\ProjectItem.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItem\bin\Release\ProjectItem.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItem\obj\Release\CSharp\Cross-Platform\1033\ProjectItem.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItem\obj\Release\ProjectItem.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItem\obj\Release\ProjectItem.pdb

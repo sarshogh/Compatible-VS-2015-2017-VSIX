@@ -1,0 +1,9 @@
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\TemplateStartupManager.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\TemplateStartupManager.pdb
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\envdte.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\stdole.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\obj\Release\TemplateStartupManager.csprojResolveAssemblyReference.cache
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\obj\Release\TemplateStartupManager.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\TemplateStartupManager\obj\Release\TemplateStartupManager.pdb

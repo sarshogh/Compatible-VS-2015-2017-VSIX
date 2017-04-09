@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name> MultiPlatform</Name>
+    <Description>A template to create a new cs file.</Description>
+    <Icon>Icon.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>MultiPlatform.cs</DefaultName>
+    <TemplateID>Microsoft.CSharp.TextFile</TemplateID>
+    <AppliesTo>CSharp + WindowsXaml + WindowsXamlPage + WindowsXamlCodeBehind + MultiTarget</AppliesTo>
+    <CreateInPlace>true</CreateInPlace>
+    <Hidden>false</Hidden>
+    <CreateNewFolder>true</CreateNewFolder>
+    <LocationField>Enabled</LocationField>
+    <SpecialTemplateType>EmptyShared</SpecialTemplateType>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+  </TemplateData>
+  <TemplateContent>
+    <References/>
+    <ProjectItem ReplaceParameters="true">File.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

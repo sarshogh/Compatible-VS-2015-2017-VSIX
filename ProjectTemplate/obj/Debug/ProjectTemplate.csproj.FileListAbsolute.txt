@@ -1,0 +1,5 @@
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectTemplate\bin\Debug\ProjectTemplates\CSharp\Cross-Platform\1033\ProjectTemplate.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectTemplate\bin\Debug\ProjectTemplate.dll.config
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectTemplate\obj\Debug\CSharp\Cross-Platform\1033\ProjectTemplate.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectTemplate\obj\Debug\ProjectTemplate.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectTemplate\obj\Debug\ProjectTemplate.pdb

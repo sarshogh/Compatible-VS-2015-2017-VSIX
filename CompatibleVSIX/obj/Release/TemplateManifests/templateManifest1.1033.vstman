@@ -1,0 +1,97 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectTemplate\SharedProject</RelativePathOnDisk>
+    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>SharedLibrary</Name>
+        <Description>&lt;No description available&gt;</Description>
+        <ProjectType>Code Sharing Projects</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>SharedLibrary</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <CreateInPlace>true</CreateInPlace>
+        <Icon>__TemplateIcon.ico</Icon>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectTemplate\Platforms\UWP</RelativePathOnDisk>
+    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>UWP</Name>
+        <Description>&lt;No description available&gt;</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>UWP</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <Icon>__TemplateIcon.ico</Icon>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectTemplate\Platforms\Android</RelativePathOnDisk>
+    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Android</Name>
+        <Description>&lt;No description available&gt;</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>Android</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <Icon>__TemplateIcon.ico</Icon>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectTemplate\Platforms\IOS</RelativePathOnDisk>
+    <TemplateFileName>MyTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>iOS</Name>
+        <Description>&lt;No description available&gt;</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>iOS</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <Icon>__TemplateIcon.ico</Icon>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="ProjectGroup">
+    <RelativePathOnDisk>CSharp\Cross-Platform\1033\ProjectTemplate</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Sample-Project-Template </Name>
+        <Description> Compatible VS Package template including iOS, Android, Universal Windows Platform, and shared projects.</Description>
+        <Icon>ProjectTemplate.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <DefaultName>App name</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

@@ -1,0 +1,5 @@
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItemWithCodeBehind\bin\Debug\ItemTemplates\CSharp\Cross-Platform\1033\ProjectItemWithCodeBehind.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItemWithCodeBehind\bin\Debug\ItemWithCodeBehindTemplate.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItemWithCodeBehind\obj\Debug\CSharp\Cross-Platform\1033\ProjectItemWithCodeBehind.zip
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItemWithCodeBehind\obj\Debug\ItemWithCodeBehindTemplate.dll
+C:\Projects\GitHubProjects\CompatibleVSIX\ProjectItemWithCodeBehind\obj\Debug\ItemWithCodeBehindTemplate.pdb
